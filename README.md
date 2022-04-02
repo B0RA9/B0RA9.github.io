@@ -1,7 +1,7 @@
 <html>
   <head>
-    <title>
+    <h1>
       Welcome To MrNo0ne Blog
-    </title>
+    </h1>
   </head>
   </html>
